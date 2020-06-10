@@ -1,4 +1,4 @@
-# HL7 Hero :hospital:
+# HL7 Hero
 
 Welcome to HL7 Hero! Here you'll find information about the app, and about how schemas are handled.
 
